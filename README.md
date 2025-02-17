@@ -2,7 +2,7 @@
 
 A mod menu for Red Dead Redemption 2 and Red Dead Online published by Rockstar Games. Strictly for educational purposes.
 
-This F0rk introduces a few updates, An ESP fix for Name and Skeleton and an Updated Menu style.
+This F0rk introduces a few updates, An ESP fix for Name and Skeleton and an Updated Menu style that inclued's Transparency!.
 
 ## How to use
 Use a popular injector (Xenos/Extreme Injector/Wicked injector for RDR2/Etc.) and inject into rdr2.exe
