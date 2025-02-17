@@ -1,9 +1,11 @@
-# Terminus (formerly HorseMenu)
+# Terminus (formerly HorseMenu) F0rk3d
 
 A mod menu for Red Dead Redemption 2 and Red Dead Online published by Rockstar Games. Strictly for educational purposes.
 
+This F0rk introduces a few updates, An ESP fix for Name and Skeleton and an Updated Menu style.
+
 ## How to use
-Use a popular injector (Xenos/Extreme Injector/Etc.) and inject into rdr2.exe
+Use a popular injector (Xenos/Extreme Injector/Wicked injector for RDR2/Etc.) and inject into rdr2.exe
 
 (INSERT) Open/Close the menu
 
@@ -15,6 +17,6 @@ Use a popular injector (Xenos/Extreme Injector/Etc.) and inject into rdr2.exe
 
 ## Screenshots / UI Design
 
-![image](https://i.ibb.co/WvTJrLcM/Screenshot-190.png)
+![image](https://i.ibb.co/pjWDzKNL/PW-Request.png)
 
 
