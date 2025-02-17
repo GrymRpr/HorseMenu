@@ -164,7 +164,7 @@ namespace YimMenu::Submenus
 
 		static float playerScale = 1;
 		toolsGroup->AddItem(std::make_shared<ImGuiItem>([] {
-			ImGui::Text("Horse Scale");
+			ImGui::Text("Player Scale");
 			ImGui::SetNextItemWidth(100.0f);
 			if (ImGui::InputFloat(" ", &playerScale))
 				FiberPool::Push([] {
