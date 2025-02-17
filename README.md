@@ -17,6 +17,6 @@ Use a popular injector (Xenos/Extreme Injector/Wicked injector for RDR2/Etc.) an
 
 ## Screenshots / UI Design
 
-![image](https://i.ibb.co/mCG0HXQH/FPB-PW.png)
+![image](http://i.ibb.co/mCG0HXQH/FPB-PW.png)
 
 
